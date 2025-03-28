@@ -8,7 +8,7 @@
 
 ---
 
-Software Development student with a special focus on backend development. Specialized in web development using Flask and relational databases.
+Passionate backend developer specializing in web applications with Flask and relational databases.
 
 ### ***Key Skills***
 
