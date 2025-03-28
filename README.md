@@ -1,8 +1,8 @@
 # Hey, my name is Christian Cisneros 👋
 ### Software Development student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-cisneros-3686b7351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titancisneros@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Cisneros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/christian-cisneros-3686b7351)
+[![Email](https://img.shields.io/badge/Email-titancisneros@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:titancisneros@gmail.com)
 
 ## About me
 
